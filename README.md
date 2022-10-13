@@ -1,4 +1,6 @@
 # LinuxPanel-7.7.0
-unzip LinuxPanel-7.7.0.zip
-cd panel/
-bash update.sh
+#unzip LinuxPanel-*
+#cd panel
+#bash update.sh
+#cd .. && rm -f LinuxPanel-*.zip && rm -rf panel
+#echo '127.0.0.1 bt.cn' >>/etc/hosts 
